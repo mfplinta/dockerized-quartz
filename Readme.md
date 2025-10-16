@@ -1,5 +1,8 @@
 # Dockerized Quartz
 
+> - Contains arm64 platform pull request by @ikersigirci.
+> - Updated to Node 22.x by @craffolo and @growlf.
+
 [Quartz (v4)](https://github.com/jackyzha0/quartz) is a lightweight static site generator that helps you host your digital garden with minimal setup. This project provides an automated, Dockerized solution to build and serve Quartz sites effortlessly. Simply mount your Obsidian Vault as a Docker volume, and Quartz will handle the rest!
 
 ## Features
